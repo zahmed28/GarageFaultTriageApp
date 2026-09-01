@@ -117,7 +117,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T03 | Application pipeline and DI registration | Complete |
 | T04 | AnalyseFault command, validator, and application DTOs | Complete |
 | T05 | Fake engine, AiOptions, and Infrastructure DI | Complete |
-| T06 | AnalyseFault handler and application mapping | Not Started |
+| T06 | AnalyseFault handler and application mapping | Complete |
 | T07 | Global exception handler and ProblemDetails mapping | Not Started |
 | T08 | AnalyseFault API endpoint and HTTP DTOs | Not Started |
 | T09 | Program.cs composition root | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 5 / 14 complete
+**Progress:** 6 / 14 complete
 
 ---
 
@@ -780,7 +780,7 @@ DI container resolves IFaultAnalysisEngine
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
