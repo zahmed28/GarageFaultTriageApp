@@ -121,13 +121,13 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T07 | Global exception handler and ProblemDetails mapping | Complete |
 | T08 | AnalyseFault API endpoint and HTTP DTOs | Complete |
 | T09 | Program.cs composition root | Complete |
-| T10 | OpenAI fault analysis engine adapter | Not Started |
+| T10 | OpenAI fault analysis engine adapter | Complete |
 | T11 | Frontend scaffold and API client | Not Started |
 | T12 | Frontend Analyse Fault UI | Not Started |
 | T13 | API integration tests | Complete |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 10 / 14 complete
+**Progress:** 11 / 14 complete
 
 ---
 
@@ -1180,7 +1180,7 @@ app.Run();
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 

@@ -25,7 +25,10 @@ public static class InfrastructureRegistration
         }
         else if (string.Equals(provider, "OpenAI", StringComparison.OrdinalIgnoreCase))
         {
-            services.AddSingleton<IFaultAnalysisEngine, NotImplementedOpenAiFaultAnalysisEngine>();
+            services.AddHttpClient<IFaultAnalysisEngine, OpenAiFaultAnalysisEngine>(client =>
+            {
+                client.Timeout = Timeout.InfiniteTimeSpan;
+            });
         }
         else
         {
