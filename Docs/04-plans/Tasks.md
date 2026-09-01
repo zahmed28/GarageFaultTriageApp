@@ -125,9 +125,9 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T11 | Frontend scaffold and API client | Complete |
 | T12 | Frontend Analyse Fault UI | Complete |
 | T13 | API integration tests | Complete |
-| T14 | Build and run documentation | Not Started |
+| T14 | Build and run documentation | Complete |
 
-**Progress:** 13 / 14 complete
+**Progress:** 14 / 14 complete
 
 ---
 
@@ -1546,7 +1546,7 @@ WebApplicationFactory creates host
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
