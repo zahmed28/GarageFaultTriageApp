@@ -114,7 +114,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 |------|-------|--------|
 | T01 | Solution and project scaffold | Complete |
 | T02 | Domain layer | Complete |
-| T03 | Application pipeline and DI registration | Not Started |
+| T03 | Application pipeline and DI registration | Complete |
 | T04 | AnalyseFault command, validator, and application DTOs | Not Started |
 | T05 | Fake engine, AiOptions, and Infrastructure DI | Not Started |
 | T06 | AnalyseFault handler and application mapping | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 2 / 14 complete
+**Progress:** 3 / 14 complete
 
 ---
 
@@ -458,7 +458,7 @@ Handler (T06) passes primitive fields from FaultAnalysisCandidate
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
