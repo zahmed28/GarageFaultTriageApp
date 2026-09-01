@@ -115,7 +115,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T01 | Solution and project scaffold | Complete |
 | T02 | Domain layer | Complete |
 | T03 | Application pipeline and DI registration | Complete |
-| T04 | AnalyseFault command, validator, and application DTOs | Not Started |
+| T04 | AnalyseFault command, validator, and application DTOs | Complete |
 | T05 | Fake engine, AiOptions, and Infrastructure DI | Not Started |
 | T06 | AnalyseFault handler and application mapping | Not Started |
 | T07 | Global exception handler and ProblemDetails mapping | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 3 / 14 complete
+**Progress:** 4 / 14 complete
 
 ---
 
@@ -562,7 +562,7 @@ Use test doubles (simple `IRequest`/`IRequestHandler` pairs) — do not require 
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
