@@ -123,11 +123,11 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T09 | Program.cs composition root | Complete |
 | T10 | OpenAI fault analysis engine adapter | Complete |
 | T11 | Frontend scaffold and API client | Complete |
-| T12 | Frontend Analyse Fault UI | Not Started |
+| T12 | Frontend Analyse Fault UI | Complete |
 | T13 | API integration tests | Complete |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 12 / 14 complete
+**Progress:** 13 / 14 complete
 
 ---
 
@@ -1358,7 +1358,7 @@ analyseFault(description)
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
