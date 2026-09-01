@@ -120,14 +120,14 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T06 | AnalyseFault handler and application mapping | Complete |
 | T07 | Global exception handler and ProblemDetails mapping | Complete |
 | T08 | AnalyseFault API endpoint and HTTP DTOs | Complete |
-| T09 | Program.cs composition root | Not Started |
+| T09 | Program.cs composition root | Complete |
 | T10 | OpenAI fault analysis engine adapter | Not Started |
 | T11 | Frontend scaffold and API client | Not Started |
 | T12 | Frontend Analyse Fault UI | Not Started |
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 8 / 14 complete
+**Progress:** 9 / 14 complete
 
 ---
 
@@ -1076,7 +1076,7 @@ POST /api/fault-assessments/analyse
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
