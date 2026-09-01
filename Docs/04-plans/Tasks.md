@@ -112,7 +112,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 
 | Task | Title | Status |
 |------|-------|--------|
-| T01 | Solution and project scaffold | Not Started |
+| T01 | Solution and project scaffold | Complete |
 | T02 | Domain layer | Not Started |
 | T03 | Application pipeline and DI registration | Not Started |
 | T04 | AnalyseFault command, validator, and application DTOs | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 0 / 14 complete
+**Progress:** 1 / 14 complete
 
 ---
 
@@ -214,7 +214,7 @@ Register doubles in integration tests via `WebApplicationFactory` `ConfigureTest
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 

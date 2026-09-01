@@ -1,0 +1,6 @@
+@GarageFaultAssistant.Api_HostAddress = http://localhost:5031
+
+GET {{GarageFaultAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
