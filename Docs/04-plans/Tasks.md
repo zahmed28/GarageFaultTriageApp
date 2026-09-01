@@ -118,7 +118,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T04 | AnalyseFault command, validator, and application DTOs | Complete |
 | T05 | Fake engine, AiOptions, and Infrastructure DI | Complete |
 | T06 | AnalyseFault handler and application mapping | Complete |
-| T07 | Global exception handler and ProblemDetails mapping | Not Started |
+| T07 | Global exception handler and ProblemDetails mapping | Complete |
 | T08 | AnalyseFault API endpoint and HTTP DTOs | Not Started |
 | T09 | Program.cs composition root | Not Started |
 | T10 | OpenAI fault analysis engine adapter | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 6 / 14 complete
+**Progress:** 7 / 14 complete
 
 ---
 
@@ -890,7 +890,7 @@ Use MediatR `ISender` in tests or invoke handler directly with mocked engine.
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
