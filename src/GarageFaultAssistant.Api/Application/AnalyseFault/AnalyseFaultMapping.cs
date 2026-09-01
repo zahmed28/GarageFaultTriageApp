@@ -1,3 +1,4 @@
+using GarageFaultAssistant.Api.Api.AnalyseFault;
 using GarageFaultAssistant.Api.Domain;
 
 namespace GarageFaultAssistant.Api.Application.AnalyseFault;
@@ -17,6 +18,22 @@ public static class AnalyseFaultMapping
             WorkshopChecks = assessment.WorkshopChecks.Select(c => c.Value).ToList(),
             ClarifyingQuestions = assessment.ClarifyingQuestions.Select(q => q.Value).ToList(),
             SafetyWarning = assessment.SafetyWarning
+        };
+    }
+
+    public static AnalyseFaultResponse ToResponse(AnalyseFaultResult result)
+    {
+        ArgumentNullException.ThrowIfNull(result);
+
+        return new AnalyseFaultResponse
+        {
+            CustomerConcern = result.CustomerConcern,
+            VehicleSystem = result.VehicleSystem,
+            Urgency = result.Urgency,
+            Symptoms = result.Symptoms,
+            WorkshopChecks = result.WorkshopChecks,
+            ClarifyingQuestions = result.ClarifyingQuestions,
+            SafetyWarning = result.SafetyWarning
         };
     }
 }

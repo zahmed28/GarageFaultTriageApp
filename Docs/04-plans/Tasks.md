@@ -119,7 +119,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T05 | Fake engine, AiOptions, and Infrastructure DI | Complete |
 | T06 | AnalyseFault handler and application mapping | Complete |
 | T07 | Global exception handler and ProblemDetails mapping | Complete |
-| T08 | AnalyseFault API endpoint and HTTP DTOs | Not Started |
+| T08 | AnalyseFault API endpoint and HTTP DTOs | Complete |
 | T09 | Program.cs composition root | Not Started |
 | T10 | OpenAI fault analysis engine adapter | Not Started |
 | T11 | Frontend scaffold and API client | Not Started |
@@ -127,7 +127,7 @@ Each task section below includes a **Status** field. Update both the summary tab
 | T13 | API integration tests | Not Started |
 | T14 | Build and run documentation | Not Started |
 
-**Progress:** 7 / 14 complete
+**Progress:** 8 / 14 complete
 
 ---
 
@@ -976,7 +976,7 @@ Exception thrown in endpoint/MediatR/handler
 
 ### Status
 
-Not Started
+Complete
 
 ### 1. Task Title
 
